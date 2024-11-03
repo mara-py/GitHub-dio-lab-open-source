@@ -4,6 +4,16 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
+Estou planejando uma mudança de área dentro da programação para expandir minhas habilidades e me manter relevante no mercado. 
+
+Primeiro, estou pesquisando a nova área que desejo seguir e avaliando como minhas habilidades atuais podem ajudar nessa transição. Em seguida, começarei um aprendizado focado, com cursos e tutoriais práticos, para construir uma base sólida sem a pressão de aprender tudo de uma vez.
+
+Quero também praticar em projetos reais: vou trabalhar em projetos pessoais e até contribuir com open source para montar um portfólio que comprove meu interesse. Pretendo ainda fazer networking com profissionais da área, participando de grupos online e eventos para obter dicas valiosas.
+
+Conforme ganho experiência, vou atualizar meu portfólio e currículo, destacando minha motivação para a mudança e os passos que estou tomando. Vou buscar oportunidades gradualmente, quem sabe, aproveitando projetos relacionados na minha empresa atual para tornar a transição mais natural.
+
+Com dedicação, acredito que essa mudança vai me trazer grande satisfação e crescimento profissional.
+
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
